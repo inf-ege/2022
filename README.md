@@ -5,3 +5,6 @@
 
 2. [Рекурсивные функции](https://github.com/inf-ege/2022/blob/master/02/lesson.ipynb) <br>
     ЕГЭ номера 16, 23
+
+3. [Алгебра логики, графы, word](https://github.com/inf-ege/2022/blob/master/03/lesson.ipynb) <br>
+    ЕГЭ номера 1, 10, 13, 15
