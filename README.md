@@ -8,3 +8,6 @@
 
 3. [Алгебра логики, графы, word](https://github.com/inf-ege/2022/blob/master/03/lesson.ipynb) <br>
     ЕГЭ номера 1, 10, 13, 15
+
+4. [Весь Excel](https://github.com/inf-ege/2022/blob/master/04/lesson.ipynb) <br>
+    ЕГЭ номера 3, 9, 18 [Файлы к заданиям](https://github.com/inf-ege/2022/blob/master/04/files)
