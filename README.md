@@ -11,3 +11,6 @@
 
 4. [Весь Excel](https://github.com/inf-ege/2022/blob/master/04/lesson.ipynb) <br>
     ЕГЭ номера 3, 9, 18 [Файлы к заданиям](https://github.com/inf-ege/2022/blob/master/04/files)
+
+5. [Теория игры](https://github.com/inf-ege/2022/blob/master/05/lesson.ipynb) <br>
+    ЕГЭ номера 19, 20, 21
