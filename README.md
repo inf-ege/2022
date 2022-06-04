@@ -14,3 +14,6 @@
 
 5. [Теория игры](https://github.com/inf-ege/2022/blob/master/05/lesson.ipynb) <br>
     ЕГЭ номера 19, 20, 21
+
+6. [Кодирование и передача информации. Количество информации](https://github.com/inf-ege/2022/blob/master/06/lesson.ipynb) <br>
+    ЕГЭ номера 4, 7, 11
