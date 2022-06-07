@@ -17,3 +17,6 @@
 
 6. [Кодирование и передача информации. Количество информации](https://github.com/inf-ege/2022/blob/master/06/lesson.ipynb) <br>
     ЕГЭ номера 4, 7, 11
+
+7. [Алгоримы на системы счисления](https://github.com/inf-ege/2022/blob/master/07/lesson.ipynb) <br>
+    ЕГЭ номера 5, 14
