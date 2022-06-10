@@ -20,3 +20,6 @@
 
 7. [Алгоримы на системы счисления](https://github.com/inf-ege/2022/blob/master/07/lesson.ipynb) <br>
     ЕГЭ номера 5, 14
+
+8. [Работа со строками](https://github.com/inf-ege/2022/blob/master/08/lesson.ipynb) <br>
+    ЕГЭ номера 12, 24 [Файлы к заданиям](https://github.com/inf-ege/2022/blob/master/08/files)
