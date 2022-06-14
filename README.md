@@ -26,3 +26,6 @@
 
 9. [Целочисленные алгоритмы](https://github.com/inf-ege/2022/blob/master/09/lesson.ipynb) <br>
     ЕГЭ номера 17, 25 [Файлы к заданиям](https://github.com/inf-ege/2022/blob/master/09/files)
+
+10. [Сортировка и матрицы](https://github.com/inf-ege/2022/blob/master/10/lesson.ipynb) <br>
+    ЕГЭ номер 26 [Файлы к заданиям](https://github.com/inf-ege/2022/blob/master/10/files)
