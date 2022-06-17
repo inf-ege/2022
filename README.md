@@ -29,3 +29,6 @@
 
 10. [Сортировка и матрицы](https://github.com/inf-ege/2022/blob/master/10/lesson.ipynb) <br>
     ЕГЭ номер 26 [Файлы к заданиям](https://github.com/inf-ege/2022/blob/master/10/files)
+
+11. [Программирование](https://github.com/inf-ege/2022/blob/master/11/lesson.ipynb) <br>
+    ЕГЭ номер 27 [Файлы к заданиям](https://github.com/inf-ege/2022/blob/master/11/files)
